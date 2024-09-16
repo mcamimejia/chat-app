@@ -20,7 +20,7 @@ And open .env file and modify environment variables:
 
 ```
 PORT=4000
-DATABASE_URL= // the DB connection string
+DATABASE_URL= // the Mongo DB Atlas connection string
 UI_URL='http://localhost:3000'
 JWT_SECRET_KEY='secret-key'
 NODE_ENV=development
